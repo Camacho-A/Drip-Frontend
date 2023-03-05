@@ -27,7 +27,10 @@ A sneaker retail consignment store for rare shoes. Carrying the rarest exclusive
 - Outlet -- "/show/update/:id" --> updateAction
 - Outlet -- "/shoe/delete/:id" --> deleteAction
 
-### Website Images
+#### Database Schema
+![Schema](img/Model%20Schema.png)
+
+#### Website Images
 ![IndexPage](img/home%20page.jpg)
 ![ShowPage](img/show.jpg)
 ![Checkout](img/checkout.jpg)
